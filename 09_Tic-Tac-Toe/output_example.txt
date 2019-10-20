@@ -1,0 +1,126 @@
+==== init:
+Current player: x
+isDraw: 
+noMoreTurns: 0
+getWinner: -
+- - -
+- - -
+- - -
+
+nextTurn(1,0)
+Current player: 0
+isDraw: 
+noMoreTurns: 0
+getWinner: -
+- - -
+x - -
+- - -
+
+nextTurn(1,2)
+Current player: x
+isDraw: 
+noMoreTurns: 0
+getWinner: -
+- - -
+x - 0
+- - -
+
+nextTurn(2,1)
+Current player: 0
+isDraw: 
+noMoreTurns: 0
+getWinner: -
+- - -
+x - 0
+- x -
+
+nextTurn(1,2)
+Current player: 0
+isDraw: 
+noMoreTurns: 0
+getWinner: -
+- - -
+x - 0
+- x -
+
+nextTurn(1,1)
+Current player: x
+isDraw: 
+noMoreTurns: 0
+getWinner: -
+- - -
+x 0 0
+- x -
+
+nextTurn(0,1)
+Current player: 0
+isDraw: 
+noMoreTurns: 0
+getWinner: -
+- x -
+x 0 0
+- x -
+
+nextTurn(2,0)
+Current player: x
+isDraw: 
+noMoreTurns: 0
+getWinner: -
+- x -
+x 0 0
+0 x -
+
+nextTurn(0,1)
+Current player: x
+isDraw: 
+noMoreTurns: 0
+getWinner: -
+- x -
+x 0 0
+0 x -
+
+nextTurn(2,2)
+Current player: 0
+isDraw: 
+noMoreTurns: 0
+getWinner: -
+- x -
+x 0 0
+0 x x
+
+nextTurn(0,1)
+Current player: 0
+isDraw: 
+noMoreTurns: 0
+getWinner: -
+- x -
+x 0 0
+0 x x
+
+nextTurn(1,1)
+Current player: 0
+isDraw: 
+noMoreTurns: 0
+getWinner: -
+- x -
+x 0 0
+0 x x
+
+nextTurn(2,0)
+Current player: 0
+isDraw: 
+noMoreTurns: 0
+getWinner: -
+- x -
+x 0 0
+0 x x
+
+nextTurn(0,2)
+Current player: x
+isDraw: 
+noMoreTurns: 0
+getWinner: -
+- x 0
+x 0 0
+0 x x
+

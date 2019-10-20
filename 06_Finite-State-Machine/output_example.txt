@@ -1,0 +1,11 @@
+busy
+sleeping
+changeState('normal')
+$VAR1 = 'normal';
+$VAR2 = 'busy';
+$VAR3 = 'sleeping';
+$VAR4 = 'hungry';
+0
+normal
+0
+normal
